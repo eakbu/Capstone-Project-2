@@ -1,7 +1,7 @@
 # Capstone-Project-2# NLP Sentiment Analysis on Health and Personel Care Products
 
 ## Introduction
-The company wants to develop a software tool that will identify the positive and negative words which customers use when they write reviews for the beauty products as their purchase inclination. For that, they gave their 9 years beauty products’ reviews between 2005-2014 and asked us to develop a model which will identify positive and negative words used in the reviews as a component of customer’s sentiment towards to the company’s beauty products. 
+The company wants to develop a software tool that will identify the positive and negative words which customers use when they write reviews for the beauty products as their purchase inclination. For that, they gave their 9 years beauty products’ reviews between 2004-2014 and asked us to develop a model which will identify positive and negative words used in the reviews as a component of customer’s sentiment towards to the company’s beauty products. 
 
 ## Data
 
