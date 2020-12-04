@@ -11,7 +11,7 @@ The data is in Standford Analysis Project (SNAP) webpage. The original data was 
   Data insection and text preprocessing is completed in this section. It can found [here](https://github.com/eakbu/Capstone-Project-2/blob/main/data%20wrangling/amazon%20health%20and%20personal-care%20sentiment%20analysis.ipynb)
 
 ## Exploratory Data Analysis
-Univarate and bivariate analysises are done by using bar charts and wordcloud visualizations. These analysis can be found [here](https://github.com/eakbu/Capstone-Project-2/blob/main/data%20storytelling/Exploratory_Data_Analysis_for_Sentiment_Analysis.ipynb.)
+Univarate and bivariate analysises are done by using bar charts and wordcloud visualizations. These analysis can be found [here](https://github.com/eakbu/Capstone-Project-2/blob/main/data%20storytelling/Exploratory_Data_Analysis_for_Sentiment_Analysis.ipynb)
 
 ## Modeling
 This is a supervised binary classification problem. We are trying to predict the sentiment based on the reviews left by females who bought health and personal care products in Amazon e-commerce online platform. I used Python’s Scikit Learn libraries to solve the problem. In this context, we implemented Logistic Regression, Random Forest,and  Naive Bayes algorithms. 
